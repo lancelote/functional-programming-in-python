@@ -4,7 +4,7 @@ Notes going through "[Functional Programming in Python][course]" [Real Python][r
 
 ## TOC
 
-- [ ] Section 1: Immutable Data Structures
+- [x] Section 1: Immutable Data Structures
 - [ ] Section 2: The `filter()` Function
 - [ ] Section 3: The `map()` Function
 - [ ] Section 4: The `reduce()` Function
