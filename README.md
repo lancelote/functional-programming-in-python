@@ -1,6 +1,6 @@
 # functional-programming-in-python
 
-Notes going through "[Functional Programming in Python]" [Real Python][realpython] course
+Notes going through "[Functional Programming in Python][course]" [Real Python][realpython] course
 
 ## TOC
 
