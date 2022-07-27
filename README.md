@@ -9,7 +9,7 @@ Notes going through "[Functional Programming in Python][course]" [Real Python][r
 - [x] [Section 3: The `map()` Function](src/section3.ipynb)
 - [x] [Section 4: The `reduce()` Function](src/section4.ipynb)
 - [x] [Section 5: Parallel Processing With `multiprocessing`](src/section5.py)
-- [ ] Section 6: Parallel Processing With `concurrent.futures`
+- [x] [Section 6: Parallel Processing With `concurrent.futures`](src/section6.py)
 
 [course]: https://realpython.com/courses/functional-programming-python/
 [realpython]: https://realpython.com/
